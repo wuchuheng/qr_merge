@@ -1,0 +1,19 @@
+{
+    "name": "wuchuheng\/qr_merge",
+    "description": "二维码背景图片合并",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "wuchuheng",
+            "email": "wuchuheng@163.com"
+        }
+    ],
+    "require": {
+        "endroid/qr-code": "^3.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Wuchuheng\\QrMerge\\": "src"
+        }
+    }
+}
